@@ -12,7 +12,7 @@ O app é a interface para os usuários que desejam ajudar nas ações, nele os u
 ### Run project:
 
 ```
-npm start
+yarn start
 ```
 
 Para o correto funcionamento dessa aplicação, é preciso rodar o [backend](https://github.com/lfzaltron/omnistack11_backend) e ajustar o IP no do backend no arquivo /src/services/api.js.
