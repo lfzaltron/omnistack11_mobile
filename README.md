@@ -16,3 +16,19 @@ yarn start
 ```
 
 Para o correto funcionamento dessa aplicação, é preciso rodar o [backend](https://github.com/lfzaltron/omnistack11_backend) e ajustar o IP no do backend no arquivo /src/services/api.js.
+
+### Prints
+
+#### Splash
+
+![](/prints/splash.jpeg)
+
+
+#### Home
+
+![](/prints/home.jpeg)
+
+
+#### Detail
+
+![](/prints/detail.jpeg)
